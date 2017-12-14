@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\bin\Debug\DataBaseTest.dll.config
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\bin\Debug\DataBaseTest.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\bin\Debug\DataBaseTest.pdb
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\bin\Debug\DataAccess.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\bin\Debug\DataAccess.pdb
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\obj\Debug\DataBaseTest.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\obj\Debug\DataBaseTest.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\DataBaseTest\obj\Debug\DataBaseTest.pdb

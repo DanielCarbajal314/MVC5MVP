@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<fieldset>
+    <legend>Product Form</legend>
+    <div class="form-group row">
+        <label for="Name">Name</label>
+        <input id="Name" data-bind="value: Name" />
+    </div>
+    <div class="form-group row">
+        <label for="Stock">Stock</label>
+        <input id="Stock" data-bind="value: Stock" />
+    </div>
+    <div class="form-group row">
+        <button class="btn" data-bind="click: RegisterProduct">Register</button>
+    </div>
+</fieldset>
+
+
+<table class="table" id="ProductTable">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Name</td>
+            <td>Stock</td>
+        </tr>
+    </thead>
+</table>
+
+<script src="~/Scripts/ViewModels/Product/ProductViewModel.js"></script>
+<script src="~/Scripts/ViewModels/Product/ProductViewModelBinding.js"></script>

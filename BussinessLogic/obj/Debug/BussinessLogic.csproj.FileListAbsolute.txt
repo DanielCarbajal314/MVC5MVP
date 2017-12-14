@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\bin\Debug\BussinessLogic.dll.config
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\bin\Debug\AutoMapper.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\bin\Debug\ServicesInterface.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\bin\Debug\ServicesInterface.pdb
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\bin\Debug\AutoMapper.xml
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\BussinessLogic\obj\Debug\BussinessLogic.pdb

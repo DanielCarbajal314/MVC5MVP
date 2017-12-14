@@ -1,0 +1,5 @@
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\ServicesInterface\bin\Debug\ServicesInterface.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\ServicesInterface\bin\Debug\ServicesInterface.pdb
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\ServicesInterface\obj\Debug\ServicesInterface.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\ServicesInterface\obj\Debug\ServicesInterface.dll
+C:\Users\Daniel\Desktop\ProcesamientoDeTexto\AdmiosTest\ServicesInterface\obj\Debug\ServicesInterface.pdb
